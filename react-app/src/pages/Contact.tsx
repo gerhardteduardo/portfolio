@@ -17,7 +17,7 @@ const Contact = () => {
       <div className="flex rounded-xl mt-8 bg-gray-50 p-10">
         <div className="grid lg:grid-cols-3 gap-20 justify-center w-full">
           <Bullet icon={<Mail />} title="Email" description="comercial.eduardogerhardt@gmail.com" />
-          <Bullet icon={<Linkedin />} title="LinkedIn" description="linkedin.com/in/eduardo" />
+          <Bullet icon={<Linkedin />} title="LinkedIn" description="linkedin.com/in/eduardo-gerhardt" />
           <Bullet icon={<Github />} title="GitHub" description="github.com/gerhardteduardo" />
         </div>
       </div>
