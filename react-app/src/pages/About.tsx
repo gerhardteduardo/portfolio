@@ -4,7 +4,7 @@ import { Music, MapPin, Film, Tv, Pizza, Monitor, GraduationCap, School, Book, P
 
 const Preferences = () => {
   return (
-    <div className="grid grid-cols-4 gap-10 w-full">
+    <div className="grid lg:grid-cols-4 grid-cols-2 gap-10 justify-center w-full">
       <Bullet icon={<MapPin />} title="City" description="Porto Alegre, RS" />
       <Bullet icon={<School />} title="University" description="UFRGS" />
       <Bullet icon={<GraduationCap />} title="Education" description="Engineering Physics" />
@@ -30,8 +30,8 @@ const About = () => {
         </div>
         <div className="p-5 flex-col w-full mx-auto">
           <h1 className="text-sm uppercase">Introduction</h1>
-          <h2 className="font-black text-4xl mt-4">Full Stack Developer passionate about tech, and goood coffee</h2>
-          <p className="text-xl mt-2 text-justify">
+          <h2 className="font-black text-4xl mt-4">Full Stack Developer passionate about tech, and good coffee</h2>
+          <p className="lg:text-xl mt-4 lg:text-justify">
             With around 1 year of experience in full-stack development, I am seeking new opportunities to apply and expand my skills. Stuck on creating dynamic and intuitive user experiences by combining a responsive and efficient front-end with a robust and scalable back-end.<br />
             I have experience with various technologies, including React, Next.js, and Tailwind CSS on the front-end, as well as Next.js and both SQL and NoSQL databases on the back-end.
           </p>

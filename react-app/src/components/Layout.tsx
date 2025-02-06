@@ -7,8 +7,8 @@ interface LayoutProps {
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <div className="h-screen flex flex-col font-mono items-center bg-gradient-to-b from-black to-blue-800">
-      <div className="max-w-6xl mt-12">
+    <div className="lg:h-screen flex flex-col font-mono items-center bg-gradient-to-b from-black to-blue-800">
+      <div className="lg:max-w-6xl max-w-sm mt-12">
         <Header/>
         <div className="mt-10">
           {children}
