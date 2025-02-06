@@ -22,7 +22,7 @@ const Header = () => {
           }`}
       >
           <a href="/" className="hover:text-blue-500">About</a>
-          <a href="/chat" className="hover:text-blue-500 pointer-events-none">Talk with IA</a>
+          <a href="/chat" className="hover:text-blue-500">Ask to AI</a>
           <a href="/projects" className="hover:text-blue-500 pointer-events-none">Projects</a>
           <a href="/setup" className="hover:text-blue-500 pointer-events-none">Setup</a>
           <a href="/contact" className="hover:text-blue-500">Contact</a>
