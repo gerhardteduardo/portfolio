@@ -22,7 +22,7 @@ Links diretos para LinkedIn, GitHub e email.
 
 Este portfólio foi construído utilizando as seguintes tecnologias:
 
-⚛️ React – Biblioteca para interfaces modernas e performáticas  
+⚛️ React – Framework para construção de interfaces interativas e performáticas  
 🟦 TypeScript – Superset do JavaScript com tipagem estática  
 🎨 Tailwind CSS – Framework de estilização utilitária  
 📌 Lucide Icons – Ícones modernos e personalizáveis  
