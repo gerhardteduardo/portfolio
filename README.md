@@ -1,37 +1,40 @@
-# 🌐  Eduardo Gerhardt | Portfolio
+# 🌐 Eduardo Gerhardt | Portfolio
 
-## 🛠️ Sobre o Projeto
+## 🛠️ About the Project
 
-Este é o meu portfólio pessoal, onde compartilho minha experiência, habilidades e projetos desenvolvidos ao longo da minha jornada como desenvolvedor. O site foi criado para demonstrar minha expertise em frontend e backend, utilizando tecnologias modernas para um design dinâmico e responsivo.
+This is my personal portfolio, where I share my experience, skills, and projects developed throughout my journey as a developer. The website was created to showcase my expertise in frontend and backend, using modern technologies for a dynamic and responsive design.
 
-## 📌 Funcionalidades
+## 📌 Features
 
-🔹 Informações Pessoais  
-Introdução sobre mim e minha carreira na tecnologia.
-Meus interesses, como músicas, livros e hobbies.  
-🔹 Projetos  
-Apresentação de projetos desenvolvidos, com tecnologias utilizadas e links para repositórios.
-Futuramente, um blog com insights sobre desenvolvimento e tecnologia.  
-🔹 Comunicação com IA  
-Um chatbot integrado ao portfólio, onde você pode fazer perguntas sobre mim e receber respostas geradas por IA.  
-🔹 Contato  
-Formulário de contato para networking e oportunidades profissionais.
-Links diretos para LinkedIn, GitHub e email.
+🔹 **Personal Information**  
+Introduction about me and my career in technology.  
+My interests, such as music, books, and hobbies.  
 
-## 🚀 Tecnologias Utilizadas
+🔹 **Projects**  
+Showcase of developed projects, including technologies used and links to repositories.  
+A blog with insights on development and technology (coming soon).  
 
-Este portfólio foi construído utilizando as seguintes tecnologias:
+🔹 **AI Communication**  
+An integrated chatbot where you can ask questions about me and receive AI-generated responses.  
 
-⚛️ React – Framework para construção de interfaces interativas e performáticas  
-🟦 TypeScript – Superset do JavaScript com tipagem estática  
-🎨 Tailwind CSS – Framework de estilização utilitária  
-📌 Lucide Icons – Ícones modernos e personalizáveis  
-⚡ Vite – Ferramenta de build rápida para projetos modernos  
+🔹 **Contact**  
+Contact form for networking and professional opportunities.  
+Direct links to LinkedIn, GitHub, and email.
 
-## 🤝 Contribuições & Sugestões
-Caso tenha alguma sugestão ou feedback sobre o projeto, sinta-se à vontade para abrir uma issue ou entrar em contato.
+## 🚀 Technologies Used
 
-## 🌟 Agradecimento
-Obrigado por conferir meu portfólio! Espero que ele seja útil como inspiração ou referência. 🚀🔥
+This portfolio was built using the following technologies:
 
-Se gostou, não esqueça de dar uma ⭐ no repositório! 😊
+⚛️ **React** – Framework for building interactive and high-performance interfaces  
+🟦 **TypeScript** – JavaScript superset with static typing  
+🎨 **Tailwind CSS** – Utility-first styling framework  
+📌 **Lucide Icons** – Modern and customizable icons  
+⚡ **Vite** – Fast build tool for modern projects  
+
+## 🤝 Contributions & Suggestions
+If you have any suggestions or feedback about the project, feel free to open an issue or get in touch.
+
+## 🌟 Acknowledgment
+Thank you for checking out my portfolio! I hope it serves as inspiration or reference. 🚀🔥  
+
+If you liked it, don’t forget to leave a ⭐ on the repository! 😊  
